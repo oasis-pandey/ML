@@ -1,1 +1,1 @@
-# ML
+This repository contains my journey to learn machine learning. I am starting with bascis of Numpy, Pandas and Matplotlib. I will be covering more advance topics as I progress through.
